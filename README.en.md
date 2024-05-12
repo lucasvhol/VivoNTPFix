@@ -26,4 +26,4 @@ The scripts automatically update the NTP server settings and synchronize the sys
 Contributions are welcome! Feel free to fork this repository and send pull requests with improvements.
 
 ## Language
-This README is also available in Portuguese. [Click here to read in Portuguese](README.md).
+Esse readme está disponível em Português (BR) também. [Clique aqui para acessar.](README.md).
