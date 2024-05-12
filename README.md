@@ -1,4 +1,4 @@
-# Atualização de Servidor de Horário (NTP) para Windows para resolver problemas com a provedora de internet VIVO.
+# Atualização de Servidor de Horário (NTP) do Windows para resolver problemas com a provedora de internet VIVO.
 
 ## Sobre
 Usuários no Brasil que utilizam o serviço de internet da Vivo frequentemente enfrentam dificuldades com a sincronização dos relógios do sistema com o servidor de tempo padrão do Windows. Esses problemas de sincronização ocorrem sem um padrão definido, em intervalos completamente aleatórios.
