@@ -26,4 +26,4 @@ Os scripts atualizam automaticamente as configurações do servidor NTP e sincro
 Contribuições são bem-vindas! Sinta-se à vontade para fazer fork deste repositório e enviar pull requests com melhorias.
 
 ## Language
-Este README também está disponível em inglês. [Clique aqui para ler em inglês](README.md).
+This readme is available in English. [Click here to access it.](README.en.md).
