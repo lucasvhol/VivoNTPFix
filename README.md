@@ -1,29 +1,29 @@
-# Time Server (NTP) Update for Windows
+# Atualização de Servidor de Horário (NTP) para Windows
 
-## About
-Users in Brazil who use Vivo's internet service often face difficulties with synchronizing their system clocks with the standard Windows time server. These synchronization issues occur without a defined pattern, at completely random intervals.
+## Sobre
+Usuários no Brasil que utilizam o serviço de internet da Vivo frequentemente enfrentam dificuldades com a sincronização dos relógios do sistema com o servidor de tempo padrão do Windows. Esses problemas de sincronização ocorrem sem um padrão definido, em intervalos completamente aleatórios.
 
-The main cause of these synchronization issues is network traffic restrictions. While Vivo allows traffic to certain specific time servers, others are blocked, affecting the connection needed to synchronize the time.
+A causa principal desses problemas de sincronização são restrições ao tráfego de rede. Enquanto a Vivo permite tráfego para alguns servidores de tempo específicos, outros são bloqueados, afetando a conexão necessária para realizar a sincronização do horário.
 
-This script updates the NTP servers on the machine to those that are known to be authorized and not affected by the operator's restrictions.
+Este script atualiza os servidores NTP da máquina para aqueles que são conhecidos por estar autorizados e que não sofrem com as restrições da operadora.
 
-## Instructions
-**Important**: The scripts will request administrator permissions to function.
+## Instruções
+**Importante**: Os scripts irão solicitar permissão de administrador para poderem funcionar.
 
-1. **.bat file (CMD)**
-    - Download `UpdateNTP.bat`
-    - Run the file.
-    - Ensure you authorize the script to run as an administrator.
+1. **Arquivo .bat (CMD)**
+    - Baixe `UpdateNTP.bat`
+    - Execute o arquivo.
+    - Certifique-se de autorizar a execução do script como administrador.
 
-2. **.ps1 file (Powershell):**
-    - Download `UpdateNTP.ps1`
-    - Run the file.
-    - Ensure you authorize the execution of third-party scripts on your machine.
+2. **Arquivo .ps1 (Powershell):**
+    - Baixe `UpdateNTP.ps1`
+    - Execute o arquivo.
+    - Certifique-se de autorizar a execução de scripts de terceiros em sua máquina.
 
-The scripts automatically update the NTP server settings and synchronize the system clock after the change.
+Os scripts atualizam automaticamente as configurações do servidor NTP e sincronizam o relógio do sistema após a mudança.
 
-## Contributions
-Contributions are welcome! Feel free to fork this repository and send pull requests with improvements.
+## Contribuições
+Contribuições são bem-vindas! Sinta-se à vontade para fazer fork deste repositório e enviar pull requests com melhorias.
 
 ## Language
-This README is also available in Portuguese. [Click here to read in Portuguese](README.pt.md).
+Este README também está disponível em inglês. [Clique aqui para ler em inglês](README.md).
