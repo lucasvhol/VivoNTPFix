@@ -1,4 +1,4 @@
-# Time Server (NTP) Update for Windows
+# Time Server (NTP) Update for Windows to fix problems with VIVO internet provider.
 
 ## About
 Users in Brazil who use Vivo's internet service often face difficulties with synchronizing their system clocks with the standard Windows time server. These synchronization issues occur without a defined pattern, at completely random intervals.
