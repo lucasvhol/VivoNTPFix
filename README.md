@@ -8,22 +8,14 @@ A causa principal desses problemas de sincronização são restrições ao tráf
 Este script atualiza os servidores NTP da máquina para aqueles que são conhecidos por estar autorizados e que não sofrem com as restrições da operadora.
 
 ## Instruções
-**Importante**: Os scripts irão solicitar permissão de administrador para poderem funcionar.
+**Importante**: O script terão de ser executados como administrador para funcionar.
 
 1. **Arquivo .bat (CMD)**
     - Baixe `UpdateNTP.bat`
     - Execute o arquivo.
     - Certifique-se de autorizar a execução do script como administrador.
 
-2. **Arquivo .ps1 (Powershell):**
-    - Baixe `UpdateNTP.ps1`
-    - Execute o arquivo.
-    - Certifique-se de autorizar a execução de scripts de terceiros em sua máquina.
-
-Os scripts atualizam automaticamente as configurações do servidor NTP e sincronizam o relógio do sistema após a mudança.
+O script atualiza automaticamente as configurações do servidor NTP e sincronizam o relógio do sistema após a mudança.
 
 ## Contribuições
 Contribuições são bem-vindas! Sinta-se à vontade para fazer fork deste repositório e enviar pull requests com melhorias.
-
-## Language
-This readme is available in English. [Click here to access it.](README.en.md).
