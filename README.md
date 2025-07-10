@@ -25,7 +25,7 @@ Existem três maneiras de aplicar a correção. Escolha a que você se sentir ma
 
 Este é o método mais simples e direto.
 
-1.  **Baixe o arquivo:** Clique [aqui](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/raw/main/ntpbrasil.reg) para baixar o arquivo `ntpbrasil.reg`.
+1.  **Baixe o arquivo:** Clique [aqui](https://github.com/lucasvhol/VivoNTPFix/raw/main/ntpbrasil.reg) para baixar o arquivo `fix-ntp-vivo.reg`.
 2.  **Execute o arquivo:** Encontre o arquivo na sua pasta de Downloads e dê um duplo-clique nele.
 3.  **Confirme as alterações:** O Windows exibirá duas janelas de confirmação.
     *   A primeira é um Aviso de Segurança do Controle de Conta de Usuário (UAC). Clique em **"Sim"**.
@@ -37,7 +37,7 @@ Este é o método mais simples e direto.
 
 Este método faz tudo automaticamente: adiciona os servidores, define um como padrão e já força a sincronização do relógio.
 
-1.  **Baixe o arquivo:** Clique [aqui](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/raw/main/fix-ntp-vivo.bat) para baixar o arquivo `fix-ntp-vivo.bat`.
+1.  **Baixe o arquivo:** Clique [aqui](https://github.com/lucasvhol/VivoNTPFix/raw/main/fix-ntp-vivo.bat) para baixar o arquivo `fix-ntp-vivo.bat`.
 2.  **Execute como Administrador:** Encontre o arquivo na sua pasta de Downloads, clique nele com o **botão direito** e selecione a opção **"Executar como administrador"**.
     
 3.  **Siga as instruções:** Uma tela preta de terminal irá se abrir e guiar o processo. Ao final, seu relógio já estará sincronizado.
@@ -46,7 +46,7 @@ Este método faz tudo automaticamente: adiciona os servidores, define um como pa
 
 Esta opção é recomendada para administradores de sistema ou usuários familiarizados com o PowerShell.
 
-1.  **Baixe o arquivo:** Clique [aqui](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/raw/main/fix-ntp-vivo.ps1) para baixar o arquivo `fix-ntp-vivo.ps1`.
+1.  **Baixe o arquivo:** Clique [aqui](https://github.com/lucasvhol/VivoNTPFix/raw/main/fix-ntp-vivo.ps1) para baixar o arquivo `fix-ntp-vivo.ps1`.
 2.  **Execute com o PowerShell:** Por padrão, o Windows bloqueia a execução de scripts. A forma mais fácil de executar é:
     *   Encontrar o arquivo na sua pasta de Downloads.
     *   Clicar com o **botão direito** sobre ele.
